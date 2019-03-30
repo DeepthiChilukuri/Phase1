@@ -1,0 +1,42 @@
+{
+  "profile" :{
+    "image" :"images/profile.jpg",
+    "name" : "Deepthi",
+    "desig" : "Student",
+    "mobile" : "8555956550",
+    "email" : "deepthichilukuri18062000@gmail.com"
+  },
+  "career" :{
+    "info" : "to excel in the work given"
+  },
+    "education" :[
+      {
+      "institute" : "mits",
+      "qualification" : "student",
+      "percentage" : "91",
+      "yop" : "2021"
+    },
+    {
+      "institute" : "sri gayatri",
+      "qualification" : "student",
+      "percentage" : "96",
+      "yop" : "2017"
+    },
+    {
+      "institute" : "bhashyam",
+      "qualification" : "student",
+      "percentage" : "95",
+      "yop" : "2015"
+    }
+  ],
+  "skills" : [
+    {
+    "name" :"webtechnologies",
+    "info" : ["HTML,css,js"]
+  },
+  {
+    "name": "Database",
+    "info": ["jdbc,sql,firebase,sqllite"]
+  }
+]
+  }
